@@ -9,7 +9,7 @@ Practice questions for the **Claude Certified Architect – Foundations (CCAR-F)
 
 Everything is in one file, `index.html`. It has no build step and no server code. Progress is saved in each visitor's own browser.
 
-**Live site:** https://kafrawyyy.github.io/CCAR-F_practice_portal/
+**Live site:** https://mostafa-elkafrawy.github.io/CCAR-F_Preparation/
 
 ## The six scenarios
 
@@ -19,3 +19,7 @@ Everything is in one file, `index.html`. It has no build step and no server code
 4. Developer Productivity with Claude
 5. Claude Code for Continuous Integration
 6. Structured Data Extraction
+
+## Run it locally
+
+Open `index.html` in any browser.
