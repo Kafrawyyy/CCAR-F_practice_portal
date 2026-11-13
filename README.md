@@ -19,21 +19,3 @@ Everything is in one file, `index.html`. It has no build step and no server code
 4. Developer Productivity with Claude
 5. Claude Code for Continuous Integration
 6. Structured Data Extraction
-
-## Run it locally
-
-Open `index.html` in any browser.
-
-## Credits
-
-Questions and explanations are adapted from the
-[Claude Architect Exam Guide](https://github.com/utkarsh1agarwal/claude-architect-exam-guide) (MIT License).
-Answer options were reshuffled, and a few questions were left out or annotated where their answers differ from current Claude Code behavior.
-
-Quiz page and question selection by Mostafa ElKafrawy.
-
-This is an unofficial study aid. It is not affiliated with or endorsed by Anthropic. "Claude" and "Claude Certified Architect" are trademarks of Anthropic, PBC. Always read Anthropic's official exam guide before your exam.
-
-## License
-
-MIT. See [LICENSE](LICENSE).
