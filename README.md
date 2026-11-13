@@ -9,7 +9,7 @@ Practice questions for the **Claude Certified Architect – Foundations (CCAR-F)
 
 Everything is in one file, `index.html`. It has no build step and no server code. Progress is saved in each visitor's own browser.
 
-**Live site:** https://mostafa-elkafrawy.github.io/CCAR-F_Preparation/
+**Live site:** https://kafrawyyy.github.io/CCAR-F_practice_portal/
 
 ## The six scenarios
 
